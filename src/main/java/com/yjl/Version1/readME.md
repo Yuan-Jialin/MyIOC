@@ -1,0 +1,1 @@
+Version1中通过ConcurrentHashMap实现了一个粗略的IOC
